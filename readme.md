@@ -1,5 +1,5 @@
-#Short LInk
+# Short LInk
 Link short an application made with Meteor and React
 
-##Author 
+## Author 
 Gerardo Zarate
